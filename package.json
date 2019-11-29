@@ -1,0 +1,12 @@
+{
+  "name": "rn-bundle-analyzer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jetzhliu/rn-bundle-analyzer.git",
+  "author": "jetzhliu <275368990@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "prettier": "1.19.1"
+  }
+}
